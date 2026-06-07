@@ -4,9 +4,13 @@ This project investigates whether student salary packages can be predicted using
 Using the Student Placement Prediction Dataset 2026 from Kaggle, we performed:
 
 Exploratory Data Analysis (EDA)
+
 Hypothesis Testing
+
 Multiple Linear Regression
+
 Feature-Selected Regression
+
 Ridge Regression
 
 Key findings indicate that CGPA, Coding Skill Score, and Internship Experience are among the strongest predictors of salary outcomes. The feature-selected regression model achieved the best balance between predictive performance and interpretability.
